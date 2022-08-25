@@ -22,7 +22,7 @@ VALUES  ('Michael Jackson', 'Thriller', 1982, 50.2, 'Pop'),
         ('Pink Floyd', 'The Wall', 1979, 18.9, 'Rock'),
         ('James Horner', 'Titanic: Music from the Motion Picture', 1997, 20, 'Film Score'),
         ('Dire Straits', 'Brothers in Arms', 1985, 22.3, 'Rock'),
-        ('Nirvana', 'Nevermind', 1991, 50, 'Rock'),
+        ('Nirvana', 'Nevermind', 1991, 26, 'Rock'),
         ('Santana', 'Supernatural', 1999, 20.8, 'Rock'),
         ('Guns N'' Roses', 'Appetite for Destruction', 1987, 22.8, 'Rock'),
         ('Elton John', 'Goodbye Yellow Brick Road', 1973, 15.6, 'Pop');
