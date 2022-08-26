@@ -13,6 +13,7 @@ SELECT * FROM albums WHERE release_date < 1980;
 UPDATE albums
 SET artist = 'Peter Jackson'
 WHERE artist = 'Michael Jackson'
+/*Set Michael Jackson artist name to Peter Jackson?*/
 SELECT name FROM albums WHERE artist = 'Michael Jackson';
 SELECT name FROM albums WHERE artist = 'Peter Jackson';
 /*Output all of the albums that had Michael Jackson as an artist*/
