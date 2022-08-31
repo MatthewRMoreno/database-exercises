@@ -1,4 +1,4 @@
-SELECT * FROM employees
+SELECT * FROM employees;
 -- ( will select all first names with the letter combination 'sus )
 SELECT first_name
 FROM employees
