@@ -15,3 +15,8 @@ WHERE emp_no BETWEEN 10026 AND 10082;
 SELECT  emp_no, first_name, last_name
 FROM employees
 WHERE last_name IN ('Herber', 'Dredge', 'Lipner', 'Baek');
+-- selects all of the specified names that are less than employee number 20000
+SELECT emp_no, first_name, last_name
+FROM employees
+WHERE last_name IN ('Herber','Baek')
+  AND emp_no < 20000;
